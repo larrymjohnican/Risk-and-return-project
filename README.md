@@ -2,7 +2,8 @@
 This project focuses on investment analysis and aims to calculate and compare the profitability and risk of different investments using the Sharpe Ratio. The Sharpe Ratio is a widely used measure in finance that helps assess the performance of an investment by taking into account both its returns and the associated risk.
 ## Installation
 To run this project, you will need Python installed on your system. Additionally, you need to have the pandas and matplotlib libraries installed. You can install these libraries using pip: pip install pandas matplotlib
-This project also utilizes Jupyter Notebooks for interactive data analysis. You can install Jupyter Notebooks using pip: pip install jupyter
+This project also utilizes Jupyter Notebooks for interactive data analysis. You can install Jupyter Notebooks using pip: pip install jupyter.
+Additionally, the datasets are provided in a zip file.
 ## Usage
 The project is written in Python and utilizes the pandas library for data manipulation and analysis, matplotlib for data visualization, and Jupyter Notebooks for interactive analysis. To use the project, follow these steps:
 
