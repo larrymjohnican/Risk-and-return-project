@@ -20,7 +20,7 @@ Please note that this project assumes you have a basic understanding of Python, 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project repository.
 
 ## License
-This project is licensed under the MIT License. Feel free to use and modify the code for your purposes.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 This project builds upon the capabilities of the pandas library, matplotlib, and Jupyter Notebooks. We would like to acknowledge the developers and contributors of these tools for their valuable work in creating powerful data analysis and visualization tools.
